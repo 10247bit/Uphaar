@@ -1,0 +1,34 @@
+/* Your custom css code goes here */
+.btn.btn-primary {
+  margin: 5px 5px;
+}
+
+.form{
+  margin:10% 10% 10% 5% ;
+
+}
+.custom-header{
+
+ext-transform: uppercase;
+    font-size: 80px;
+    color: #fff;
+    font-weight: 900;
+    line-height: 40px;
+}
+label{
+  color:white;
+}
+.form-label-group
+{
+  margin-bottom: 10px;
+}
+.form-label-group label{
+color: black;
+line-height: 15px;
+font-size: 15px;
+font-weight: 300;
+}
+
+.first{
+  padding-top:10%;
+}
